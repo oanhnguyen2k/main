@@ -3,6 +3,6 @@ public class Main {
         int value = 12;
         System.out.println(value + 5); //random number
         System.out.println("Hi team");
-        System.out.println("Test");
+        System.out.println("Anna's test");
     }
 }
