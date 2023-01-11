@@ -3,5 +3,6 @@ public class Main {
         int value = 10;
         System.out.println(value + 5); //random number
         System.out.println("Hi team");
+        System.out.println("Test");
     }
 }
